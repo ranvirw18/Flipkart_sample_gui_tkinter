@@ -111,3 +111,5 @@ Inspired by Flipkart's login interface for educational purposes only.
 ---
 
 ### ⭐ If you like this project, consider giving it a star on GitHub!
+
+License: This project is licensed under the MIT License. You are free to use, modify, and distribute it with proper credit.
