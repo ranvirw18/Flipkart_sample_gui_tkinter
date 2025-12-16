@@ -31,4 +31,25 @@ This is a beginner-friendly project designed to explore GUI design, user input h
 ### 1. Install Python dependencies (if not already):
 ```bash
 pip install pillow
+### 2. Run the Application
+Navigate to the project directory and execute the main script:
+
+Bash
+
+python your_script_name.py
+
+
+📖 Usage
+Launch: Run the command above to open the application window.
+
+Interaction: Enter text into the input field or click the buttons provided.
+
+Output: View the processed results directly in the application's text area or labels.
+
+🐧 Note for Linux Users
+If you encounter an ImportError: No module named 'tkinter', you may need to install the Tkinter package manually:
+
+Bash
+
+sudo apt-get install python3-tk
 
